@@ -41,8 +41,7 @@ print(add_result)
 # Convert minutes to hours
 minutes = 120
 hours = minutes / 60
-print(minutes, "minutes is equal to", hours, "hours.")
-
+print(hours)
 
 # Objectives
 - Learn about data science languages and libraries.
